@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ErdanusBatuhan
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate on ...
+- 📫 You can reach me over my LinkedIn account from this link https://www.linkedin.com/in/batuhanerdanus/ 
